@@ -3,41 +3,41 @@
     <channel>
         <title>GemmaFlow</title>
         <item>
+            <title>0.3.8</title>
+            <pubDate>Fri, 27 Mar 2026 21:02:13 +0000</pubDate>
+            <link>https://nsalerni.github.io/lighthouse/</link>
+            <sparkle:version>0.3.8</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.8.md</sparkle:releaseNotesLink>
+            <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.8.zip" length="11246103" type="application/octet-stream" sparkle:edSignature="kSbvQvabuxQl4vnamnxCbA4fhBvRX5COOEzers9B+mrRNi1CiKulDByV1qy4Sufimi/5SbsfyPR3bNrvl6zmAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.8-0.3.7.delta" sparkle:deltaFrom="0.3.7" length="19302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bBTbV4gpA6e+UD2IXvXGOfAOs8l6X/Lc4n9LP58M58Ld/o80gU9jyFoIBbo0AtqK8QR+9GdyemjbSB/59ErBDg=="/>
+                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.8-0.3.6.delta" sparkle:deltaFrom="0.3.6" length="820114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rQw6owK6V/5ITo3aqp5zlW9JlkyltUdyUaBFcmUIAz7mtKbEzMilIMBjGMs7YAVSlbtElvGPGeCQ1zaWTn9PDA=="/>
+                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.8-0.3.4.delta" sparkle:deltaFrom="0.3.4" length="820226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3zpG714xyXMAW0srY30GEPWIYWzq0I4A6AtIrxTNg62/KtesAKBrJ6GargLrxP944JlxtGKU5G4LRVKGhy9mDw=="/>
+                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.8-0.3.3.delta" sparkle:deltaFrom="0.3.3" length="820830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9XiGywwH6hyqdLrX/U/jU3wAMKiHFqyFXm6eWkNCYR1SRS3ppghRVg2YW+hYtfAj1TRk50Zy5xz+68TBREspDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.3.7</title>
-            <pubDate>Fri, 27 Mar 2026 20:55:24 +0000</pubDate>
+            <pubDate>Fri, 27 Mar 2026 21:02:14 +0000</pubDate>
             <link>https://nsalerni.github.io/lighthouse/</link>
             <sparkle:version>0.3.7</sparkle:version>
             <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.7.md</sparkle:releaseNotesLink>
             <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.7.zip" length="11246067" type="application/octet-stream" sparkle:edSignature="ztKHJ25A37+jC93eY9Sr/UucIVdOXoD4OdBNKdd/+EnDa/UO++EXNrcvf9jNFE4+ixc3nR3uBPA6aonlH4NGCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.7-0.3.6.delta" sparkle:deltaFrom="0.3.6" length="819994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="51uWfmkCyHb5zeRP236bBnlgArUBPq51CFOGTHn+wRk8+SX5iJ5KMrBUOgnoGTmgDWJXS7BCdpivVBuzsvRvBg=="/>
-                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.7-0.3.4.delta" sparkle:deltaFrom="0.3.4" length="820762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/ouMfWrjahWx/9jEfgfsuLlM5CEiwSra3uq3ctWXtBUKrz1nuLMx6h9UvkDr4ci8oTOTbtU1i9yhCDYCWmqRBA=="/>
-                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.7-0.3.3.delta" sparkle:deltaFrom="0.3.3" length="819822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rx6a54KJL5X30LLmVgqJab51RqAtFkL1Bm+me66rwyD3Zrj+B0arnpcJ6SZ8KT9ZpkIg5WYAt77ev7U2ysfmDQ=="/>
-                <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow0.3.7-0.3.2.delta" sparkle:deltaFrom="0.3.2" length="819566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pFVHB80LLEZk9T/MnzXnnaz0LNTUVRooGjwTi0+mvWWioEPJH9ogpDX/DpkN+y275Acv7yKG3bd1ewuSRYBXCQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.3.6</title>
-            <pubDate>Fri, 27 Mar 2026 20:55:26 +0000</pubDate>
+            <pubDate>Fri, 27 Mar 2026 21:02:14 +0000</pubDate>
             <link>https://nsalerni.github.io/lighthouse/</link>
             <sparkle:version>0.3.6</sparkle:version>
             <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.6.zip" length="11242964" type="application/octet-stream" sparkle:edSignature="3TAummw7/yYLMSy4Wvo+qC9mZBKzBz7Xr0wlSZsovUekBMHWks9yVtAESCQxhR5+qU4Z4ZwjnSAxcAkQDHMGCg=="/>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Fri, 27 Mar 2026 20:55:27 +0000</pubDate>
-            <link>https://nsalerni.github.io/lighthouse/</link>
-            <sparkle:version>0.3.4</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://nsalerni.github.io/lighthouse/updates/GemmaFlow-0.3.4.zip" length="11242938" type="application/octet-stream" sparkle:edSignature="LR54TYUcetKcocenKay0vI7zve31aJIBDKMqVFzBFlyUYY3vOJgG2Y4s95TQKHVeCMCCSkZ56LeeT1zViazEBg=="/>
         </item>
     </channel>
 </rss>
